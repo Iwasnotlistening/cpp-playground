@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/arnav/repos/cpp_projects/LearnCPP.com/cpp-sandbox1/Hello Git/main'
+relocations:     []
+...
